@@ -15,10 +15,6 @@ Java Spring integration with GraphQL
     orderNo
     custNo
     totalCost
-    items {
-      id
-      productName
-    }
   }
   items {
     id
