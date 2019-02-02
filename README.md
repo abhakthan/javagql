@@ -18,10 +18,11 @@ Java Spring integration with GraphQL
   }
   items {
     id
+    orderId
+    unitCost
     docNumber
     productName
     productType
-    quantity
-    unitCost
   }
 }
+
